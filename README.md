@@ -28,10 +28,8 @@ result=np.linalg,solve(A,B)
 print(result)
 ```
 ## Output:
-
 <img width="1301" height="967" alt="Screenshot 2025-08-21 115425" src="https://github.com/user-attachments/assets/5d8a001b-2a1d-452f-9c7f-94c94b5dc4f9" />
 
 ## Result: 
-
-Thus the solutions for the linear equations are successfully solved using python program
+Thus the solutions for the linear equations are successfully solved using python program.
 
